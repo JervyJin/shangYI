@@ -1,0 +1,88 @@
+.sidebar {
+  background-color: #2F4050;
+}
+
+.sidebar .listyle {
+  background: #406B96
+}
+
+.datagrid-view .btnEdit,
+.datagrid-view .btnDelete,
+.datagrid-view .btnState,
+.btnEdit {
+  border: none;
+  background: none;
+  color: #007EFF !important
+}
+
+/* 按钮 */
+/* 添加,搜索 */
+.btnAdd,
+.btn-query {
+  background: #FD9500 !important;
+  border-color: #FD9500 !important
+}
+
+.btnAdd:hover,
+.btn-query:hover {
+  background: #dc8508 !important;
+  border-color: #dc8508 !important;
+}
+/* 导入 */
+.btn-outline {
+  /* background: #fff; */
+  background: #7AA8E1;
+  color: #fff!important;
+
+  width: 62px;
+  height: 30px;
+  line-height: 30px;
+}
+/* 确定 */
+.btnConfirm{
+    background-color: #0093DD;
+}
+.btnConfirm:hover{
+  background-color: #0093DD !important;
+  border-color: #0093DD !important;
+}
+.pstyle a{
+  margin-right: 5px;
+  width: 80px;
+}
+/*  */
+.datagrid .datagrid-pager {
+  background: #F5F8FC
+}
+
+.datagrid-header .datagrid-cell span {
+  color: #222222;
+  font-weight: bold
+}
+
+.datagrid-header-row td:first-child {
+  background-color: #E7ECF2
+}
+
+.datagrid-header-inner {
+  /* border-bottom:1px solid #CFD6E3 */
+}
+
+.datagrid-header {
+  /* background: #E7ECF2;
+    border-left: none; */
+}
+/* 弹出框 */
+.window .window-header{
+  /* background:#4A5A69;
+  border-color: #4A5A69; */
+  background: #95B8E7;
+  background-color: #95B8E7;
+}
+.window, .window .window-body{
+  border-color: #fff
+}
+.combo-panel{
+  height: auto!important;
+  max-height: 300px;
+}

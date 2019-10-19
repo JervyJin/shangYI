@@ -1,0 +1,366 @@
+{
+  "user": [
+    {
+      "url": "members",
+      "icon": "iconfont iconhuiyuan2",
+      "title": "会员",
+      "children": [
+        {
+          "title": "会员业务",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberBusiness",
+              "title": "会员业务办理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberPortrait",
+              "title": "会员画像"
+            },
+            {
+              "icon": "",
+              "description": "短信发送记录",
+              "url": "MsgSendRecord",
+              "title": "短信发送记录"
+            }
+          ]
+        },
+        {
+          "title": "会员查询",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberOperationRecords",
+              "title": "会员操作记录"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberGrowthValue",
+              "title": "会员成长值流水"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberDataQuery",
+              "title": "会员资料查询"
+            }
+          ]
+        },
+        {
+          "title": "基础设置",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberGrowth",
+              "title": "会员成长值管理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberTag",
+              "title": "会员标签"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MemberLevel",
+              "title": "会员等级"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "basicData",
+      "icon": "iconfont iconziliao1",
+      "title": "资料",
+      "children": [
+        {
+          "title": "基础资料",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "basicDataManagement",
+              "title": "资料方案"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "WeChatSynchronization",
+              "title": "微信授权"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MakeCardManagement",
+              "title": "制卡管理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MakeCardDetail",
+              "title": "制卡详情"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "Synchronous",
+              "title": "商品同步"
+            }
+          ]
+        },
+        {
+          "title": "业态管理",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "formatsManagement",
+              "title": "业态管理"
+            }
+          ]
+        },
+        {
+          "title": "角色管理",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "roleManagement",
+              "title": "角色管理"
+            }
+          ]
+        },
+        {
+          "title": "员工管理",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "staffManagement",
+              "title": "员工管理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "staffGroup",
+              "title": "员工分组"
+            }
+          ]
+        },
+        {
+          "title": "机构管理",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "agencyArea",
+              "title": "机构区域"
+            },
+
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "institutionsManagement",
+              "title": "机构管理"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "Market",
+      "icon": "iconfont iconxiaoshou3",
+      "title": "营销",
+      "children": [
+        {
+          "title": "精准营销",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketCoupons",
+              "title": "优惠券"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketCouponsExchangeManagement",
+              "title": "优惠券兑换管理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketCouponsExchangeHistory",
+              "title": "优惠券兑换历史"
+            }
+          ]
+        },
+        {
+          "title": "普通营销",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketOrdinary",
+              "title": "普通营销"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketRecharge",
+              "title": "充值奖励营销"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketSingle",
+              "title": "单笔销售奖励"
+            }
+          ]
+        },
+        {
+          "title": "券管理",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketArchInfoQuery",
+              "title": "券信息查询"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "MarketArchUseQuery",
+              "title": "券使用查询"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "Combo",
+      "icon": "iconfont icontaocanhuodong",
+      "title": "套餐",
+      "children": [
+        {
+          "title": "套餐业务",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ComboManagement",
+              "title": "套餐管理"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ComboInfoQuery",
+              "title": "套餐信息查询"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "url": "Report",
+      "icon": "iconfont iconbaobiao",
+      "title": "报表",
+      "children": [
+        {
+          "title": "会员报表",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ReportNewStatistics",
+              "title": "新客统计"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ReportMemberAnalysis",
+              "title": "会员分析"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ReportConsumptionRanking",
+              "title": "会员消费排名"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "ReportIntegralAnalysis",
+              "title": "积分分析"
+            }
+          ]
+        },
+        {
+          "title": "销售报表",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "StoresSales",
+              "title": "商品销售"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "StoresSalesDetail",
+              "title": "销售明细"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "StoresInstitutionsCashier",
+              "title": "机构收银流水"
+            }
+          ]
+        },
+        {
+          "title": "销售对账",
+          "icon": "ios-paper",
+          "children": [
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "StoresSalesCashier",
+              "title": "CRM销售收银流水"
+            },
+            {
+              "icon": "",
+              "description": "简介",
+              "url": "StoresReconciliation",
+              "title": "CRM&ERP订单对账"
+            }
+            
+          ]
+        }
+      ]
+    }
+    
+  ]
+}
